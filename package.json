@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@github/markdown-toolbar-element": "^2.1.1",
+    "@google-web-components/google-chart": "^5.0.3",
+    "@material-ui/core": "^4.12.4",
+    "@polymer/iron-ajax": "^3.0.1",
+    "@polymer/paper-button": "^3.0.1",
+    "elix": "^15.0.1",
+    "polymer-cli": "^1.9.11",
+    "webcomponent-qr-code": "^1.1.1",
+    "youtube-video-element": "^0.2.0"
+  }
+}
